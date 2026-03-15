@@ -23,3 +23,7 @@ spring:
   autoconfigure:
     exclude:
       - org.springframework.boot.autoconfigure.security.oauth2.resource.servlet.OAuth2ResourceServerAutoConfiguration
+
+fmp:
+  api-key: PbVsF2VO5ZssRXF5CXJikOcOmR3gL3un
+  base-url: https://financialmodelingprep.com
