@@ -98,5 +98,5 @@ logging:
 # ─────────────────────────────────────────────────────────────
 
 fmp:
-  api-key: PbVsF2VO5ZssRXF5CXJikOcOmR3gL3un
+  api-key:
   base-url: https://financialmodelingprep.com
