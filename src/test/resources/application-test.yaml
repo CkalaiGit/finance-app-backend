@@ -25,5 +25,5 @@ spring:
       - org.springframework.boot.autoconfigure.security.oauth2.resource.servlet.OAuth2ResourceServerAutoConfiguration
 
 fmp:
-  api-key: PbVsF2VO5ZssRXF5CXJikOcOmR3gL3un
+  api-key: ${FMP_API_KEY:}
   base-url: https://financialmodelingprep.com
